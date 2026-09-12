@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:4C1D95,100:8B5CF6&height=220&section=header&text=Hi%2C%20I'm%20Vaibhav%20Pandey&fontSize=38&fontColor=E9D8FD&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
@@ -166,36 +165,6 @@ A couple of lines explaining the key features and what you learned building it.
 <img src="https://streak-stats.demolab.com?user=vaibhavpandey152091&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=E9D8FD&sideNums=E9D8FD&dates=C4B5FD" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpandey152091&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="60%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhavpandey152091&theme=dracula&no-frame=true&row=1&column=6&margin-w=10" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavpandey152091&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E9D8FD" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vaibhavpandey152091/vaibhavpandey152091/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
